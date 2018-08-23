@@ -1,0 +1,22 @@
+{
+  "id": "5644684b-fe61-434b-be2e-4c7076514615",
+  "name": "NAV2018",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.12925.0",
+  "application": "11.0.22292.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
