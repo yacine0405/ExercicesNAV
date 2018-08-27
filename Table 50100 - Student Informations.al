@@ -1,7 +1,7 @@
 table 50100 "Student Informations"
 {
     DataClassification = ToBeClassified;
-    
+
     fields
     {
         field(1; "StudentNo."; Code[20])
@@ -18,7 +18,7 @@ table 50100 "Student Informations"
             CaptionML = ENU = 'Age';
         }
     }
-    
+
     keys
     {
         key(PK; "StudentNo.")
@@ -27,31 +27,31 @@ table 50100 "Student Informations"
         }
         key(SK; Name)
         {
-            
+
         }
     }
-    
+
     var
         myInt: Integer;
-    
+
     trigger OnInsert()
     begin
-        
+
     end;
-    
+
     trigger OnModify()
     begin
-        
+
     end;
-    
+
     trigger OnDelete()
     begin
-        
+
     end;
-    
+
     trigger OnRename()
     begin
-        
+
     end;
-    
+
 }

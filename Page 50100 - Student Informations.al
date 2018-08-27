@@ -13,15 +13,15 @@ page 50100 "Student Informations"
             {
                 field("StudentNo."; "StudentNo.")
                 {
-                    
+
                 }
                 field(Name; Name)
                 {
-                    
+
                 }
                 field(Age; Age)
                 {
-                    
+
                 }
             }
         }
