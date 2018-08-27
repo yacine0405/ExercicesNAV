@@ -10,7 +10,7 @@
             "tenant": "default",
             "authentication": "Windows",
             "port": 7949,
-            "startupObjectId": 22
+            "startupObjectId": 50100
         }
     ]
 }
