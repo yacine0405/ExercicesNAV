@@ -3,7 +3,7 @@ page 50100 "Student Informations"
     PageType = List;
     SourceTable = "Student Informations";
     Editable = False;
-    SourceTableView = sorting (Name) order(descending);
+    SourceTableView = sorting ("StudentNo.") order(descending);
 
     layout
     {
