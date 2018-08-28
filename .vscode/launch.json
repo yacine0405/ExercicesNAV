@@ -10,8 +10,6 @@
             "tenant": "default",
             "authentication": "Windows",
             "port": 7949,
-            "startupObjectType": "Page",
-            "startupObjectId": 50100
         }
     ]
 }
